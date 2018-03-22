@@ -1,0 +1,12 @@
+{
+  "name": "csgopresence",
+  "version": "0.0.1",
+  "author": "hpfxd (hpf@waifu.club)",
+  "homepage": "https://tooger.life",
+  "dependencies": {
+    "discord-rich-presence": "0.0.6"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
