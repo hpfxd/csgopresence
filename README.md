@@ -12,4 +12,4 @@ Discord rich presence with CS:GO
 ![Playing Casual on ar_shoots](https://i.tooger.xyz/img/12130382.png "Playing Casual on ar_shoots")
 
 ## Discord
-You can join the tooger Discord server [https://discord.gg/CaXjxnp](here)!
+You can join the tooger Discord server [here](https://discord.gg/CaXjxnp)!
