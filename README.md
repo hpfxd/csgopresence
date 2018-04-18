@@ -1,6 +1,10 @@
 # csgopresence
 Discord rich presence with CS:GO
 
+## ABANDONED
+This project is currently abandoned.
+Most of it doesn't even work. I won't be providing any support for it.
+
 ## Instructions
 - Download a release from [the releases page](https://github.com/hpyef/csgopresence/releases)
 - Install [nodejs](https://nodejs.org/en/download/)
